@@ -13,7 +13,7 @@
 Minos is a framework which helps you create [reactive](https://www.reactivemanifesto.org/) microservices. Internally, it leverages Event Sourcing, CQRS and a message driven architecture to fulfil the commitments of an asynchronous environment.
 
 ## Contents
-* 🕹️ [minos-cli](https://github.com/minos-framework/minos-cli): The command-line interface of the Minos Framework..
+* 🕹️ [minos-cli](https://github.com/minos-framework/minos-cli): The command-line interface of the Minos Framework.
 * 🐍 [minos-python](https://github.com/minos-framework/minos-python): The Python implementation of the Minos Framework.
 * 🌐 [minos-api-gateway](https://github.com/minos-framework/minos-api-gateway): The API Gateway of the Minos Framework.
 * 🔍 [minos-discovery](https://github.com/minos-framework/minos-discovery): The Discovery service of the Minos Framework.
